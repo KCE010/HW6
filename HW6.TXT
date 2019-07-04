@@ -1,0 +1,6 @@
+moneyinpocket=100
+bill = 40 
+tip =40*.10
+totalbill= bill+tip
+totalmoneyremaininginpocket=moneyinpocket-totalbill
+print(totalmoneyremaininginpocket)
